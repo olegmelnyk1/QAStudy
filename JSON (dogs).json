@@ -1,0 +1,30 @@
+[{
+  "name": "Hachi",
+  "color": "Brown",
+  "breed": "Akita",
+  "age": "10"
+},
+{
+  "name": "Balto",
+  "color": "Grey",
+  "breed": "Siberian Husky",
+  "age": "12"
+},
+{
+  "name": "Tramp",
+  "color": "Grey",
+  "breed": "Mongrel",
+  "age": "5"
+},
+{
+  "name": "Lassie",
+  "color": "Brown and white",
+  "breed": "Collie",
+  "age": "5"
+},
+{
+  "name": "Beethoven",
+  "color": "Brown and white",
+  "breed": "St. Bernard",
+  "age": "7"
+}]
